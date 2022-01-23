@@ -738,7 +738,7 @@ xclip
     box-shadow: none;
     background-color: transparent;
     border: 1px solid #e6e7e6 !important;
-    color: #745c67;
+    color: #1f1f1f;
     font-weight: 400;
     font-size: 13px;
     padding: 10px 30px;
@@ -1020,7 +1020,7 @@ xclip
     line-height: 75px;
     font-size: 28px;
     background-color: #f2f3f5;
-    color: #1f1f1f;
+    color: #745c67;
     margin-top: 0;
 }
 
