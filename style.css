@@ -2046,7 +2046,7 @@ select.mobile-device {
 }
 
 .contact_form .form-control {
-    background-color: #745c67;
+    background-color: ##1f1f1f;
     margin-bottom: 30px;
     border: 1px solid #ebebeb;
     box-sizing: border-box;
@@ -2136,7 +2136,7 @@ select.mobile-device {
 .footer {
     padding: 90px 0 80px !important;
     color: #999;
-    background-color: #158e79;
+    background-color: #1f1f1f;
 }
 
 .footer .widget-title {
