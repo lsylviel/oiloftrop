@@ -1020,7 +1020,7 @@ xclip
     line-height: 75px;
     font-size: 28px;
     background-color: #f2f3f5;
-    color: #745c67;
+    color: #1f1f1f;
     margin-top: 0;
 }
 
@@ -1124,7 +1124,7 @@ xclip
 	position: relative;
 }
 .participate-wrap figure::before{
-	background-color: #333333;
+	background-color: #745c67;
 	content: "";
 	position: absolute;
 	border-radius: 100%;
