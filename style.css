@@ -1124,7 +1124,7 @@ xclip
 	position: relative;
 }
 .participate-wrap figure::before{
-	background-color: #745c67;
+	background-color: #333333;
 	content: "";
 	position: absolute;
 	border-radius: 100%;
@@ -2046,7 +2046,7 @@ select.mobile-device {
 }
 
 .contact_form .form-control {
-    background-color: #333333;
+    background-color: #745c67;
     margin-bottom: 30px;
     border: 1px solid #ebebeb;
     box-sizing: border-box;
