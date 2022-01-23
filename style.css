@@ -24,7 +24,7 @@
 -------------------------------------------------------------------*/
 
 body {
-    color: #c2cccc;
+    color: #999999;
     font-size: 14px;
     font-family: 'Roboto Mono', monospace;
     line-height: 1.80857;
@@ -84,7 +84,7 @@ h6 {
     padding: 0 0 10px 0;
     font-weight: normal;
     line-height: 120% !important;
-    color: #333333;
+    color: #158e79;
     margin: 0
 }
 
