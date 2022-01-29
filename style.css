@@ -133,7 +133,7 @@ h6 a:hover {
 }
 
 a {
-    color: #80d6a3;
+    color: #222222;
     text-decoration: none;
     outline: none;
 }
@@ -360,7 +360,7 @@ a img.aligncenter {
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: #000;
+    background-color: #222;
     z-index: 0;
     opacity: .6;
 }
@@ -641,7 +641,7 @@ xclip
 }
 .right-box-pro::before {
     content: "";
-    background: url(images/country-quilt-dark.png);
+    background-color: #80d6a3;
     width: 100%;
     height: 100%;
     position: absolute;
